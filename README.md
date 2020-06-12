@@ -1,5 +1,5 @@
 # install_tool
-1. tools 目录放离线安装包
+1. tools 目录放离线安装包(https://github.com/silianbo/install_tool)
 
 2. 脚本使用
    - install_all.sh  离线 tomcat、mysql、jdk
